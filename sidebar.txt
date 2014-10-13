@@ -10,6 +10,10 @@
 
   * [[ttt-x-txizi:obs|Open Bible Stories (ttt-x-txizi)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ttt-x-txizi|d43-ttt-x-txizi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ttt-x-txizi/archive/master.zip|d43-ttt-x-txizi.zip]]
+
 **Recent Changes**
 {{changes>ns = ttt-x-txizi}}
 
