@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = ttt-x-txizi}}
 
-**Latest Status**
-{{page>en:uwadmin:ttt-x-txizi:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/ttt-x-txizi|Ethnologue data]]
